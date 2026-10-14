@@ -1,0 +1,6 @@
+{
+  "name": "ScamCheck IA",
+  "description": "Détection d'arnaques sur Vinted, eBay et Facebook Marketplace par intelligence artificielle. Vérifie avant d'acheter grâce au score de risque, à l'analyse de photos et aux conseils de sécurité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
